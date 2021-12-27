@@ -1,14 +1,21 @@
-##Bruno Fortunato Domingos Mateus
+# Bruno Fortunato Domingos Mateus
+
+<hr/>
 
 <div align="center">
   <a href="https://github.com/Bruno-F-D-Mateus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-F-D-Mateus&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-F-D-Mateus&layout=compact&langs_count=7&theme=light"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bruno-F-D-Mateus&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-F-D-Mateus&layout=compact&langs_count=7&theme=light"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="BrunoMateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="BrunoMateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="BrunoMateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BrunoMateus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jwt/jwt.png"></code>
+  
+<p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/Bruno-F-D-Mateus/count.svg" />
+</p>
