@@ -2,7 +2,7 @@
 
 <a align="center" href="https://github.com/Bruno-F-D-Mateus?tab=repositories">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bruno-F-D-Mateus&show_icons=true&theme=light" alt="my_github_stats" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bruno-F-D-Mateus&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="my_github_stats" height="170" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-F-D-Mateus&layout=compact&theme=light" alt="languages" height="170">
     </p>
 </a>
